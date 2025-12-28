@@ -1,17 +1,321 @@
 [
   {
-    "id": "sp-2026-01-04-1700",
-    "dateISO": "2026-01-04",
+    "id": "stpatrick-2025-12-06-1700",
+    "dateISO": "2025-12-06",
     "time": "5:00 PM",
     "church": "St. Patrick",
-    "intention": "Seminarians",
+    "intention": null,
     "tag": "Saturday Vigil",
     "roles": {
-      "Servers": ["Jane Doe", "John Doe"],
-      "EMHCs": [],
-      "Lector": [],
-      "Ushers": [],
-      "Greeters": []
+      "EMHC": [
+        "Loretta Brittain",
+        "Jessica Ford",
+        "Shirley Lytle",
+        "Vickie Haselhorst",
+        "MaryAnn Backman",
+        "Mark Ille",
+        "Judy Ochs"
+      ],
+      "Lector": ["Dan Haselhorst"],
+      "Leader": ["Vickie Dreiling"],
+      "Server": ["Teagan Johnson", "Claire Mermis", "Collyn Suchy", "Atley Suchy"],
+      "Usher": ["David Dreiling", "Neal Dreiling"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["MaryAnn Backman", "Tyler & Chelsy", "Blind & Calvin & Aly LeRoy"]
+    }
+  },
+  {
+    "id": "strose-2025-12-07-0800",
+    "dateISO": "2025-12-07",
+    "time": "8:00 AM",
+    "church": "St. Rose",
+    "intention": null,
+    "tag": null,
+    "roles": {
+      "EMHC": ["Donna Gales", "Leonard Gales", "Mary June Leiker", "Dan Quinlan", "Jean Clair"],
+      "Lector": ["Patrick Burnett"],
+      "Leader": ["Loretta Kimpel"],
+      "Server": ["Logan Biggs", "Colin Quillin", "Volunteer"],
+      "Usher": ["Alan Stein", "Volunteer"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Leonard & Donna Gales"]
+    }
+  },
+  {
+    "id": "stpatrick-2025-12-07-1000",
+    "dateISO": "2025-12-07",
+    "time": "10:00 AM",
+    "church": "St. Patrick",
+    "intention": null,
+    "tag": null,
+    "roles": {
+      "EMHC": [
+        "MaryAnn Mazouch",
+        "Sonja McMullen",
+        "Brad Schmitt",
+        "Carrie Witte",
+        "Marlene Beck",
+        "Kinzie Behrends",
+        "Ken Hickel"
+      ],
+      "Lector": ["Arlen Werth"],
+      "Leader": ["Rhys Froetschner"],
+      "Server": ["Shaylee Ruiz", "Isabel Grose", "Breckin Behrends"],
+      "Usher": ["Jeff Mauler", "Gary Beif"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Shannon & Melissa Roach", "Volunteer"]
+    }
+  },
+  {
+    "id": "stpatrick-2025-12-13-1700",
+    "dateISO": "2025-12-13",
+    "time": "5:00 PM",
+    "church": "St. Patrick",
+    "intention": null,
+    "tag": "Saturday Vigil",
+    "roles": {
+      "EMHC": [
+        "Kathy McGinnis",
+        "Brenda Black",
+        "Kevin Kramp",
+        "Robert Esfeld",
+        "Barb Esfeld",
+        "Nancy Sundahl",
+        "Rosie Fabricius"
+      ],
+      "Lector": ["Judy Johnson"],
+      "Leader": ["Jim Johnson"],
+      "Server": ["Annalise Detter", "Grayson Detter", "Tenley Loving", "Temperance Harris"],
+      "Usher": ["Steve Neeland", "Volunteer"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Rosie Fabricius", "Pam Lichter", "Volunteer"]
+    }
+  },
+  {
+    "id": "strose-2025-12-13-1730",
+    "dateISO": "2025-12-13",
+    "time": "5:30 PM",
+    "church": "St. Rose",
+    "intention": null,
+    "tag": "Saturday Vigil",
+    "roles": {
+      "EMHC": ["Ron Vratil", "Joyce Beadles-Fry", "Cathy Griffie", "Shirley Harris"],
+      "Lector": ["Linda Stanley"],
+      "Leader": ["Gail Cooper"],
+      "Server": ["Troy King", "Sean King", "Volunteer"],
+      "Usher": ["John Haberman", "Ron Vratil"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Aleta Ehrlich", "Darlene Stoss"]
+    }
+  },
+  {
+    "id": "strose-2025-12-14-0800",
+    "dateISO": "2025-12-14",
+    "time": "8:00 AM",
+    "church": "St. Rose",
+    "intention": null,
+    "tag": null,
+    "roles": {
+      "EMHC": ["Jared Chansler", "Karla Crissman", "Barbara Millard", "Cristy Suchy", "John Sullivan", "Angie Anderson"],
+      "Lector": ["Kendall Lang"],
+      "Leader": ["Rosie Meier"],
+      "Server": ["Ambrose Chansler", "Volunteer"],
+      "Usher": ["Terry Millard", "Jerry Damm"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Melissa Kultgen", "Volunteer"]
+    }
+  },
+  {
+    "id": "stpatrick-2025-12-14-1000",
+    "dateISO": "2025-12-14",
+    "time": "10:00 AM",
+    "church": "St. Patrick",
+    "intention": null,
+    "tag": null,
+    "roles": {
+      "EMHC": [
+        "Carol Pfannenstiel",
+        "Janice Manning",
+        "Mike Manning",
+        "Mike Keeley",
+        "Paula Brozek",
+        "Kay Thompson",
+        "Bob Drake"
+      ],
+      "Lector": ["Pat Straub"],
+      "Leader": ["Carol Danielson"],
+      "Server": ["Colson Kelly", "Chloe Kelly", "Emerson Sullivan"],
+      "Usher": ["Jeff Keller", "Neal Keller"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Arlen & Gay Werth", "Volunteer"]
+    }
+  },
+  {
+    "id": "stpatrick-2025-12-20-1700",
+    "dateISO": "2025-12-20",
+    "time": "5:00 PM",
+    "church": "St. Patrick",
+    "intention": null,
+    "tag": "Saturday Vigil",
+    "roles": {
+      "EMHC": [
+        "Shirley Lytle",
+        "Leona Prosser",
+        "MaryAnn Backman",
+        "Loretta Brittain",
+        "Linda Brungardt",
+        "Marlene Feist",
+        "Jill Lane"
+      ],
+      "Lector": ["Craig Neeland"],
+      "Leader": ["Cody Campfield"],
+      "Server": ["Mallory Campfield", "Leo Beugelsdijk", "Marlowe Beugelsdijk"],
+      "Usher": ["Paul Werth", "Bud Brungardt", "Sam Beugelsdijk"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Paul Werth", "Travis & Jill", "Suchy Family"]
+    }
+  },
+  {
+    "id": "strose-2025-12-20-1730",
+    "dateISO": "2025-12-20",
+    "time": "5:30 PM",
+    "church": "St. Rose",
+    "intention": null,
+    "tag": "Saturday Vigil",
+    "roles": {
+      "EMHC": ["Kathy Hayes", "Dori Wonsetler", "David Cruse", "Ray Degenhardt", "Cathy Griffie"],
+      "Lector": ["Michelle Kaiser"],
+      "Leader": ["Linda Stanley"],
+      "Server": ["Jaycee Hapes", "Volunteer"],
+      "Usher": ["John Haberman", "Jim Hayes"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Rachelle Hapes", "Volunteer"]
+    }
+  },
+  {
+    "id": "strose-2025-12-21-0800",
+    "dateISO": "2025-12-21",
+    "time": "8:00 AM",
+    "church": "St. Rose",
+    "intention": null,
+    "tag": null,
+    "roles": {
+      "EMHC": ["Kathy Vopat", "Patrick Burnett", "Luz Betty Gordon", "Clarence Suppes", "Jim Vopat"],
+      "Lector": ["Daniel Shaffer"],
+      "Leader": ["Mary Johnson"],
+      "Server": ["Elsie Kuhlman", "Madeline Kuhlman", "Volunteer"],
+      "Usher": ["Harold Hitschmann", "Volunteer"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Jeff & Lauren Kuhlman"]
+    }
+  },
+  {
+    "id": "stpatrick-2025-12-21-1000",
+    "dateISO": "2025-12-21",
+    "time": "10:00 AM",
+    "church": "St. Patrick",
+    "intention": null,
+    "tag": null,
+    "roles": {
+      "EMHC": [
+        "Erin Beck",
+        "Marlene Beck",
+        "Lyles Lashley",
+        "Janice Manning",
+        "Mike Manning",
+        "MaryAnn Mazouch",
+        "Dan Thompson"
+      ],
+      "Lector": ["Paula Brozek"],
+      "Leader": ["Jordon Smith"],
+      "Server": ["Lawson Beck", "Laney Beck", "Lexi Beck"],
+      "Usher": ["Ray Degenhardt", "Kevin Lockwood"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Mike & Janice Manning", "Volunteer"]
+    }
+  },
+  {
+    "id": "stpatrick-2025-12-27-1700",
+    "dateISO": "2025-12-27",
+    "time": "5:00 PM",
+    "church": "St. Patrick",
+    "intention": null,
+    "tag": "Saturday Vigil",
+    "roles": {
+      "EMHC": [
+        "Amber Madden",
+        "Brenda Black",
+        "Nancy Sundahl",
+        "Rosie Fabricius",
+        "Dan Haselhorst",
+        "Robert Esfeld",
+        "Sharon King"
+      ],
+      "Lector": ["Debbie Hagans"],
+      "Leader": ["Barb Esfeld"],
+      "Server": ["Knox Strickland", "Oren Talukdar", "Slade Lopez"],
+      "Usher": ["David Degenhardt", "Alicia Degenhardt"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Dan & Vicki Haselhorst", "Volunteer"]
+    }
+  },
+  {
+    "id": "strose-2025-12-27-1730",
+    "dateISO": "2025-12-27",
+    "time": "5:30 PM",
+    "church": "St. Rose",
+    "intention": null,
+    "tag": "Saturday Vigil",
+    "roles": {
+      "EMHC": ["Kathy Hayes", "Dori Wonsetler", "David Cruse", "Ray Degenhardt", "Cathy Griffie"],
+      "Lector": ["Michelle Kaiser"],
+      "Leader": ["Linda Stanley"],
+      "Server": ["Jaycee Hapes", "Volunteer"],
+      "Usher": ["John Haberman", "Jim Hayes"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Rachelle Hapes", "Volunteer"]
+    }
+  },
+  {
+    "id": "strose-2025-12-28-0800",
+    "dateISO": "2025-12-28",
+    "time": "8:00 AM",
+    "church": "St. Rose",
+    "intention": null,
+    "tag": null,
+    "roles": {
+      "EMHC": ["Alan Stein", "Cindy Stein", "Neal Herman", "Jolene Kirmer", "Phil Kirmer"],
+      "Lector": ["Judy Jenisch"],
+      "Leader": ["Alan Riedel"],
+      "Server": ["Jordyn Rains", "Kylee Rains", "Kellen Patzer"],
+      "Usher": ["Clarence Suppes", "Ken Dreiling"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Clarence Suppes", "Ken Dreiling"]
+    }
+  },
+  {
+    "id": "stpatrick-2025-12-28-1000",
+    "dateISO": "2025-12-28",
+    "time": "10:00 AM",
+    "church": "St. Patrick",
+    "intention": null,
+    "tag": null,
+    "roles": {
+      "EMHC": [
+        "Brad Schmitt",
+        "Bob Drake",
+        "Kay Thompson",
+        "Amanda Hoffman",
+        "Carrie Witte",
+        "Paula Brozek",
+        "Volunteer"
+      ],
+      "Lector": ["Kevin Kramp"],
+      "Leader": ["Charles Atkinson"],
+      "Server": ["Isaac Steiner", "Eli Steiner", "Macy Hoffman", "Lexan Hoffman"],
+      "Usher": ["Eric Steiner", "Volunteer"],
+      "Gift Bearers": ["Ushers' Choice"],
+      "Greeters": ["Kathleen Ruble", "Volunteer", "Volunteer"]
     }
   }
 ]

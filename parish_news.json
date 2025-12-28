@@ -1,74 +1,138 @@
 [
   {
-    "id": "welcome-test",
-    "title": "Parish News is Live",
-    "subtitle": "GitHub Pages connected",
-    "body": "This confirms the parish app can load news from GitHub without rebuilding.",
+    "id": "socials-2025-12-29-blood-drive",
+    "title": "Blood Drive",
+    "subtitle": "10:00 AM · St. Rose Auditorium",
+    "body": "Community blood drive at St. Rose Auditorium.",
     "category": "Parish Socials",
-    "dateISO": null
+    "dateISO": "2025-12-29"
   },
   {
-    "id": "meals-2025-12-28-donuts",
-    "title": "Donuts & Coffee",
-    "subtitle": "After the morning Masses · Parish Hall",
-    "body": "Stop in for coffee and donuts after Mass. All are welcome.",
-    "category": "Potlucks / Meals",
-    "dateISO": "2025-12-28"
+    "id": "faith-2025-12-30-adoration-confession",
+    "title": "Adoration + Confession (St. Rose)",
+    "subtitle": "5:00 PM · St. Rose",
+    "body": "Eucharistic Adoration with Confession at St. Rose.",
+    "category": "Faith Formation",
+    "dateISO": "2025-12-30"
   },
   {
-    "id": "meals-2026-01-04-potluck",
-    "title": "Parish Potluck",
-    "subtitle": "After the 5:00 PM Mass · Parish Hall",
-    "body": "Bring a dish to share (main, side, or dessert). Paper goods and drinks provided. Everyone is welcome—invite a friend.",
+    "id": "youth-2025-12-30-dante-deo",
+    "title": "Dante Deo",
+    "subtitle": "8:00 PM · Contact Laken for location",
+    "body": "Contact Laken for location details.",
+    "category": "Youth Group",
+    "dateISO": "2025-12-30"
+  },
+  {
+    "id": "faith-2026-01-01-first-friday-adoration-begins",
+    "title": "24-hour 1st Friday Adoration Begins (St. Patrick)",
+    "subtitle": "6:00 PM · St. Patrick Church",
+    "body": "Adoration begins Thursday evening and continues through Friday. See the schedule for Children’s Adoration, Benediction, and conclusion time.",
+    "category": "Faith Formation",
+    "dateISO": "2026-01-01"
+  },
+  {
+    "id": "faith-2026-01-02-childrens-adoration-benediction",
+    "title": "Adoration Continues + Children’s Adoration + Benediction",
+    "subtitle": "Children’s Adoration until 4:00 PM · Benediction 5:55 PM · St. Patrick",
+    "body": "Adoration continues. Children’s Adoration is until 4:00 PM. Benediction is at 5:55 PM.",
+    "category": "Faith Formation",
+    "dateISO": "2026-01-02"
+  },
+  {
+    "id": "faith-2026-01-03-marian-devotion",
+    "title": "First Saturday Marian Devotion",
+    "subtitle": "7:30–9:00 AM · St. Rose of Lima Church",
+    "body": "Confessions 8:00–8:30 AM. Mass at 8:30 AM.",
+    "category": "Faith Formation",
+    "dateISO": "2026-01-03"
+  },
+  {
+    "id": "faith-2026-01-03-baptism-prep-english",
+    "title": "Baptism Prep Class (English)",
+    "subtitle": "7:00 PM · St. Rose Auditorium · MUST RSVP",
+    "body": "Parents and (local) Godparents are expected to attend a 90-minute class prior to setting a date for baptism. MUST RSVP. Call the parish office to sign up.",
+    "category": "Faith Formation",
+    "dateISO": "2026-01-03"
+  },
+  {
+    "id": "meals-2026-01-04-coffee-donuts",
+    "title": "Coffee & Donuts",
+    "subtitle": "9:15 AM · St. Rose Auditorium",
+    "body": "Coffee & donuts in the St. Rose Auditorium after Mass-time activities. All are welcome.",
     "category": "Potlucks / Meals",
     "dateISO": "2026-01-04"
   },
   {
-    "id": "socials-2026-01-11-game-night",
-    "title": "Parish Game Night",
-    "subtitle": "6:30 PM · Parish Hall",
-    "body": "Board games, snacks, and fellowship. Families and individuals welcome. Bring a favorite game if you’d like.",
-    "category": "Parish Socials",
-    "dateISO": "2026-01-11"
+    "id": "faith-2026-01-04-prayers-seminarians",
+    "title": "Prayers for Seminarians",
+    "subtitle": "3:00 PM · St. Patrick Church",
+    "body": "Join for prayers for seminarians at St. Patrick Church.",
+    "category": "Faith Formation",
+    "dateISO": "2026-01-04"
   },
   {
-    "id": "youth-2025-12-28-youth-group",
-    "title": "No Youth Group or Confirmation",
-    "subtitle": "6:30 PM · Parish Hall",
-    "body": "We hope you all have a Merry Christmas. Enjoy the Holiday season.",
+    "id": "youth-2025-12-28-no-youth-group",
+    "title": "No Confirmation or Youth Group",
+    "subtitle": "Sunday, Dec 28",
+    "body": "No Confirmation or Youth Group this weekend.",
     "category": "Youth Group",
     "dateISO": "2025-12-28"
   },
   {
-    "id": "koc-2026-01-06-competition",
+    "id": "youth-2026-01-04-no-youth-group",
+    "title": "No Confirmation or Youth Group",
+    "subtitle": "Sunday, Jan 4",
+    "body": "No Confirmation or Youth Group this weekend.",
+    "category": "Youth Group",
+    "dateISO": "2026-01-04"
+  },
+  {
+    "id": "koc-2026-01-06-free-throw",
     "title": "Knights of Columbus Free-Throw Competition",
-    "subtitle": "5:00 PM-7:00 PM · St. Patrick Parish Center",
-    "body": "Childrens Competition. Call  Dennis Redburn for more information 620.617.2198.",
+    "subtitle": "5:00–7:00 PM · Parish Center at St. Patrick",
+    "body": "For boys and girls ages 9–14. Entry forms available at the back of each church; walk-ins welcome. Parental permission required. Parents are encouraged to stay. Call area coordinator Dennis Redburn: 620-617-2198.",
     "category": "Knights of Columbus",
     "dateISO": "2026-01-06"
   },
   {
-    "id": "faith-monthly-baptism",
-    "title": "Baptismal Preparation Classes",
-    "subtitle": "7:00 PM · St. Rose Auditorium",
-    "body": "Parents and Godparents are expected to attend a 90-minute class prior to baptism. MUST RSVP",
-    "category": "Faith Formation",
-    "dateISO": null
-  },
-  {
-    "id": "school-2026-01-03-break",
+    "id": "school-2026-01-05-back-to-school",
     "title": "Back to School",
-    "subtitle": "7:50 AM–3:30 PM · School",
-    "body": "After the wonderful Christmas Break we are excited to see everyone on January 5th.",
+    "subtitle": "Jan 5 · Holy Family School",
+    "body": "Back to school on January 5 after Christmas Break.",
     "category": "School News",
     "dateISO": "2026-01-05"
   },
   {
-    "id": "faith-ongoing-volunteers",
-    "title": "Volunteers Always Needed",
-    "subtitle": "Ongoing",
-    "body": "Would you like an oppertunity to get involved or learn more about your Catholic faith? Stop by the office to see possible oppertunities to grow with Christ.",
+    "id": "socials-2026-01-07-girls-night-out",
+    "title": "Girls Night Out (multi-day)",
+    "subtitle": "Fri–Sun, Jan 7–9 · 3600 Broadway",
+    "body": "Girls Night Out. Game night at 3600 Broadway. (Listed as Jan 7–9.)",
+    "category": "Parish Socials",
+    "dateISO": "2026-01-07"
+  },
+  {
+    "id": "faith-2026-01-31-pilgrimage-for-life",
+    "title": "Diocese of Dodge City: Pilgrimage for Life",
+    "subtitle": "Jan 31, 2026 · Cathedral of Our Lady of Guadalupe (Social Hall)",
+    "body": "Schedule: 10:00 AM gather for prayer & presentation (Kansas Catholic Conference). 10:45 AM outdoor pilgrimage begins. 11:45 AM prepare for liturgy. 12:00 PM Holy Mass. 1:00 PM lunch + ministry fair. Bring a non-food pantry item (diapers, wipes, toiletries) for Catholic Charities. Register or call the Diocese: 620-227-1500.",
     "category": "Faith Formation",
+    "dateISO": "2026-01-31"
+  },
+  {
+    "id": "faith-ongoing-baptism-prep",
+    "title": "Baptism Preparation Classes (Ongoing)",
+    "subtitle": "English: First Saturday 7:00 PM · Spanish: Last Saturday 6:30 PM · St. Rose Auditorium",
+    "body": "Parents and (local) Godparents are expected to attend a 90-minute class prior to setting a baptism date. MUST RSVP. Call the parish office to sign up.",
+    "category": "Faith Formation",
+    "dateISO": null
+  },
+  {
+    "id": "socials-ongoing-diocesan-calendars",
+    "title": "Diocesan Calendars Available",
+    "subtitle": "Available in the back of each church (while supplies last)",
+    "body": "75th Anniversary diocesan calendars are available at the back of each church while supplies last.",
+    "category": "Parish Socials",
     "dateISO": null
   }
 ]

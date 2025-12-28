@@ -7,4 +7,68 @@
     "category": "Parish Socials",
     "dateISO": null
   }
+  {
+    "id": "meals-2025-12-28-donuts",
+    "title": "Donuts & Coffee",
+    "subtitle": "After the morning Masses · Parish Hall",
+    "body": "Stop in for coffee and donuts after Mass. All are welcome.",
+    "category": "Potlucks / Meals",
+    "dateISO": "2025-12-28"
+  },
+  {
+    "id": "meals-2026-01-04-potluck",
+    "title": "Parish Potluck",
+    "subtitle": "After the 5:00 PM Mass · Parish Hall",
+    "body": "Bring a dish to share (main, side, or dessert). Paper goods and drinks provided. Everyone is welcome—invite a friend.",
+    "category": "Potlucks / Meals",
+    "dateISO": "2026-01-04"
+  },
+  {
+    "id": "socials-2026-01-11-game-night",
+    "title": "Parish Game Night",
+    "subtitle": "6:30 PM · Parish Hall",
+    "body": "Board games, snacks, and fellowship. Families and individuals welcome. Bring a favorite game if you’d like.",
+    "category": "Parish Socials",
+    "dateISO": "2026-01-11"
+  },
+  {
+    "id": "youth-2025-12-28-youth-group",
+    "title": "No Youth Group or Confirmation",
+    "subtitle": "6:30 PM · Parish Hall",
+    "body": "We hope you all have a Merry Christmas. Enjoy the Holiday season.",
+    "category": "Youth Group",
+    "dateISO": "2026-12-28"
+  },
+  {
+    "id": "koc-2026-01-06-competition",
+    "title": "Knights of Columbus Free-Throw Competition",
+    "subtitle": "5:00 PM-7:00 PM · St. Patrick Parish Center",
+    "body": "Childrens Competition. Call  Dennis Redburn for more information 620.617.2198.",
+    "category": "Knights of Columbus",
+    "dateISO": "2026-01-06"
+  },
+  {
+    "id": "faith-monthly-baptism",
+    "title": "Baptismal Preparation Classes",
+    "subtitle": "7:00 PM · St. Rose Auditorium",
+    "body": "Parents and Godparents are expected to attend a 90-minute class prior to baptism. MUST RSVP",
+    "category": "Faith Formation",
+    "dateISO": null
+  },
+  {
+    "id": "school-2026-01-03-break",
+    "title": "Back to School",
+    "subtitle": "7:50 AM–3:30 PM · School",
+    "body": "After the wonderful Christmas Break we are excited to see everyone on January 5th.",
+    "category": "School News",
+    "dateISO": "2026-01-05"
+  },
+  {
+    "id": "faith-ongoing-volunteers",
+    "title": "Volunteers Always Needed",
+    "subtitle": "Ongoing",
+    "body": "Would you like an oppertunity to get involved or learn more about your Catholic faith? Stop by the office to see possible oppertunities to grow with Christ.",
+    "category": "Faith Formation",
+    "dateISO": null
+  }
 ]

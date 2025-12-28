@@ -1,17 +1,41 @@
 [
   {
+    "id": "faith-ongoing-december-note",
+    "title": "December Note",
+    "subtitle": "Special Adoration & Confession times",
+    "body": "PLEASE SEE THE BULLETIN FOR SPECIAL ADORATION AND CONFESSION TIMES DURING DECEMBER. Please check the bulletin for weekday Mass times.",
+    "category": "Faith Formation",
+    "dateISO": null
+  },
+  {
+    "id": "youth-2025-12-28-no-youth",
+    "title": "No Confirmation or Youth Group",
+    "subtitle": "Sunday, Dec 28",
+    "body": "No Confirmation or Youth Group.",
+    "category": "Youth Group",
+    "dateISO": "2025-12-28"
+  },
+  {
     "id": "socials-2025-12-29-blood-drive",
     "title": "Blood Drive",
     "subtitle": "10:00 AM · St. Rose Auditorium",
-    "body": "Community blood drive at St. Rose Auditorium.",
+    "body": "Blood Drive at St. Rose Auditorium.",
     "category": "Parish Socials",
     "dateISO": "2025-12-29"
   },
   {
-    "id": "faith-2025-12-30-adoration-confession",
+    "id": "faith-2025-12-30-adoration-confession-sr",
     "title": "Adoration + Confession (St. Rose)",
     "subtitle": "5:00 PM · St. Rose",
-    "body": "Eucharistic Adoration with Confession at St. Rose.",
+    "body": "Adoración Eucarística con Confesión en Santa Rosa.",
+    "category": "Faith Formation",
+    "dateISO": "2025-12-30"
+  },
+  {
+    "id": "faith-2025-12-30-spanish-choir",
+    "title": "Spanish Choir Practice",
+    "subtitle": "6:00 PM · St. Rose MR 1",
+    "body": "Práctica de coro español (SR MR 1).",
     "category": "Faith Formation",
     "dateISO": "2025-12-30"
   },
@@ -24,25 +48,49 @@
     "dateISO": "2025-12-30"
   },
   {
-    "id": "faith-2026-01-01-first-friday-adoration-begins",
-    "title": "24-hour 1st Friday Adoration Begins (St. Patrick)",
+    "id": "socials-2025-12-31-office-closed",
+    "title": "Parish Office Closed",
+    "subtitle": "Wednesday, Dec 31",
+    "body": "Church office closed.",
+    "category": "Parish Socials",
+    "dateISO": "2025-12-31"
+  },
+  {
+    "id": "socials-2026-01-01-office-closed",
+    "title": "Parish Office Closed",
+    "subtitle": "Thursday, Jan 1",
+    "body": "Church office closed.",
+    "category": "Parish Socials",
+    "dateISO": "2026-01-01"
+  },
+  {
+    "id": "faith-2026-01-01-1st-friday-adoration-begins",
+    "title": "24-hour 1st Friday Adoration Begins",
     "subtitle": "6:00 PM · St. Patrick Church",
-    "body": "Adoration begins Thursday evening and continues through Friday. See the schedule for Children’s Adoration, Benediction, and conclusion time.",
+    "body": "24-hour 1st Friday Adoration begins at St. Patrick.",
     "category": "Faith Formation",
     "dateISO": "2026-01-01"
   },
   {
-    "id": "faith-2026-01-02-childrens-adoration-benediction",
-    "title": "Adoration Continues + Children’s Adoration + Benediction",
-    "subtitle": "Children’s Adoration until 4:00 PM · Benediction 5:55 PM · St. Patrick",
-    "body": "Adoration continues. Children’s Adoration is until 4:00 PM. Benediction is at 5:55 PM.",
+    "id": "faith-2026-01-02-adoration-continues",
+    "title": "Adoration Continues (St. Patrick)",
+    "subtitle": "Children’s Adoration until 4:00 PM · Benediction 5:55 PM",
+    "body": "Eucharistic Adoration continues. Children’s Adoration until 4:00 PM. Benediction at 5:55 PM.",
+    "category": "Faith Formation",
+    "dateISO": "2026-01-02"
+  },
+  {
+    "id": "faith-2026-01-02-spanish-mens-bible-study",
+    "title": "Spanish Men’s Bible Study",
+    "subtitle": "7:30 PM · St. Rose MR 2",
+    "body": "Estudio Bíblico en Español para Hombres (SR MR 2).",
     "category": "Faith Formation",
     "dateISO": "2026-01-02"
   },
   {
     "id": "faith-2026-01-03-marian-devotion",
     "title": "First Saturday Marian Devotion",
-    "subtitle": "7:30–9:00 AM · St. Rose of Lima Church",
+    "subtitle": "7:30–9:00 AM · St. Rose",
     "body": "Confessions 8:00–8:30 AM. Mass at 8:30 AM.",
     "category": "Faith Formation",
     "dateISO": "2026-01-03"
@@ -50,8 +98,8 @@
   {
     "id": "faith-2026-01-03-baptism-prep-english",
     "title": "Baptism Prep Class (English)",
-    "subtitle": "7:00 PM · St. Rose Auditorium · MUST RSVP",
-    "body": "Parents and (local) Godparents are expected to attend a 90-minute class prior to setting a date for baptism. MUST RSVP. Call the parish office to sign up.",
+    "subtitle": "7:00 PM · St. Rose MR 1 · MUST RSVP",
+    "body": "English baptism prep class. MUST RSVP through the parish office.",
     "category": "Faith Formation",
     "dateISO": "2026-01-03"
   },
@@ -59,7 +107,7 @@
     "id": "meals-2026-01-04-coffee-donuts",
     "title": "Coffee & Donuts",
     "subtitle": "9:15 AM · St. Rose Auditorium",
-    "body": "Coffee & donuts in the St. Rose Auditorium after Mass-time activities. All are welcome.",
+    "body": "Coffee & donuts at St. Rose Auditorium.",
     "category": "Potlucks / Meals",
     "dateISO": "2026-01-04"
   },
@@ -67,23 +115,15 @@
     "id": "faith-2026-01-04-prayers-seminarians",
     "title": "Prayers for Seminarians",
     "subtitle": "3:00 PM · St. Patrick Church",
-    "body": "Join for prayers for seminarians at St. Patrick Church.",
+    "body": "Join for prayers for seminarians.",
     "category": "Faith Formation",
     "dateISO": "2026-01-04"
   },
   {
-    "id": "youth-2025-12-28-no-youth-group",
-    "title": "No Confirmation or Youth Group",
-    "subtitle": "Sunday, Dec 28",
-    "body": "No Confirmation or Youth Group this weekend.",
-    "category": "Youth Group",
-    "dateISO": "2025-12-28"
-  },
-  {
-    "id": "youth-2026-01-04-no-youth-group",
+    "id": "youth-2026-01-04-no-youth",
     "title": "No Confirmation or Youth Group",
     "subtitle": "Sunday, Jan 4",
-    "body": "No Confirmation or Youth Group this weekend.",
+    "body": "No Confirmation or Youth Group.",
     "category": "Youth Group",
     "dateISO": "2026-01-04"
   },
@@ -91,48 +131,8 @@
     "id": "koc-2026-01-06-free-throw",
     "title": "Knights of Columbus Free-Throw Competition",
     "subtitle": "5:00–7:00 PM · Parish Center at St. Patrick",
-    "body": "For boys and girls ages 9–14. Entry forms available at the back of each church; walk-ins welcome. Parental permission required. Parents are encouraged to stay. Call area coordinator Dennis Redburn: 620-617-2198.",
+    "body": "Boys and girls ages 9–14. Entry forms in the back of each church; walk-ins welcome. Parents encouraged to stay. Call Dennis Redburn: 620-617-2198.",
     "category": "Knights of Columbus",
     "dateISO": "2026-01-06"
-  },
-  {
-    "id": "school-2026-01-05-back-to-school",
-    "title": "Back to School",
-    "subtitle": "Jan 5 · Holy Family School",
-    "body": "Back to school on January 5 after Christmas Break.",
-    "category": "School News",
-    "dateISO": "2026-01-05"
-  },
-  {
-    "id": "socials-2026-01-07-girls-night-out",
-    "title": "Girls Night Out (multi-day)",
-    "subtitle": "Fri–Sun, Jan 7–9 · 3600 Broadway",
-    "body": "Girls Night Out. Game night at 3600 Broadway. (Listed as Jan 7–9.)",
-    "category": "Parish Socials",
-    "dateISO": "2026-01-07"
-  },
-  {
-    "id": "faith-2026-01-31-pilgrimage-for-life",
-    "title": "Diocese of Dodge City: Pilgrimage for Life",
-    "subtitle": "Jan 31, 2026 · Cathedral of Our Lady of Guadalupe (Social Hall)",
-    "body": "Schedule: 10:00 AM gather for prayer & presentation (Kansas Catholic Conference). 10:45 AM outdoor pilgrimage begins. 11:45 AM prepare for liturgy. 12:00 PM Holy Mass. 1:00 PM lunch + ministry fair. Bring a non-food pantry item (diapers, wipes, toiletries) for Catholic Charities. Register or call the Diocese: 620-227-1500.",
-    "category": "Faith Formation",
-    "dateISO": "2026-01-31"
-  },
-  {
-    "id": "faith-ongoing-baptism-prep",
-    "title": "Baptism Preparation Classes (Ongoing)",
-    "subtitle": "English: First Saturday 7:00 PM · Spanish: Last Saturday 6:30 PM · St. Rose Auditorium",
-    "body": "Parents and (local) Godparents are expected to attend a 90-minute class prior to setting a baptism date. MUST RSVP. Call the parish office to sign up.",
-    "category": "Faith Formation",
-    "dateISO": null
-  },
-  {
-    "id": "socials-ongoing-diocesan-calendars",
-    "title": "Diocesan Calendars Available",
-    "subtitle": "Available in the back of each church (while supplies last)",
-    "body": "75th Anniversary diocesan calendars are available at the back of each church while supplies last.",
-    "category": "Parish Socials",
-    "dateISO": null
   }
 ]

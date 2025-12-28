@@ -1,0 +1,10 @@
+[
+  {
+    "id": "welcome-test",
+    "title": "Parish News is Live",
+    "subtitle": "GitHub Pages connected",
+    "body": "This confirms the parish app can load news from GitHub without rebuilding.",
+    "category": "Parish Socials",
+    "dateISO": null
+  }
+]

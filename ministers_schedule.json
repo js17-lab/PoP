@@ -1,0 +1,17 @@
+[
+  {
+    "id": "sp-2026-01-04-1700",
+    "dateISO": "2026-01-04",
+    "time": "5:00 PM",
+    "church": "St. Patrick",
+    "intention": "Seminarians",
+    "tag": "Saturday Vigil",
+    "roles": {
+      "Servers": ["Jane Doe", "John Doe"],
+      "EMHCs": [],
+      "Lector": [],
+      "Ushers": [],
+      "Greeters": []
+    }
+  }
+]

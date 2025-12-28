@@ -1,0 +1,244 @@
+{
+  "parish": {
+    "nameEnglish": "Prince of Peace Parish",
+    "nameSpanish": "Parroquia de Principe de la Paz",
+    "website": "https://greatbendcatholic.com",
+    "phone": "620-792-1396",
+    "fax": "620-792-3642",
+    "mailingAddress": "4100 Broadway, P.O. Box 87, Great Bend, KS 67530-0087",
+    "emails": [
+      "secretary@gbprinceofpeace.org",
+      "receptionist@gbprinceofpeace.org"
+    ],
+    "officeHoursEnglish": "8:00 AM to 4:00 PM Monday thru Friday",
+    "officeHoursSpanish": "8:00 a.m. a 4:00 p.m. de lunes a Viernes"
+  },
+
+  "school": {
+    "name": "Holy Family School",
+    "website": "http://www.gbholyfamily.eduk12.net",
+    "email": "office@gbholyfamily.org",
+    "phone": "620-793-3265",
+    "fax": "620-792-2798"
+  },
+
+  "locations": [
+    { "code": "SP", "name": "St. Patrick", "address": "4100 Broadway" },
+    { "code": "SR", "name": "St. Rose of Lima", "address": "4200 Broadway" },
+    { "code": "HFS", "name": "Holy Family School", "address": "1424 Baker" }
+  ],
+
+  "mission": {
+    "english": "Our Mission at Prince of Peace Parish: Serving God and our neighbor with compassion, live by example; love without exception; faith without compromise.",
+    "spanish": "La Misión de la Parroquia Príncipe de la Paz, es servir a Dios y a nuestro prójimo con compasión; vivir por ejemplo; amar sin excepción; con fe sin compromiso."
+  },
+
+  "regularSchedules": {
+    "weekendMassTimes": [
+      { "locationCode": "SP", "day": "Saturday", "time": "5:00 PM", "language": "English", "label": "Saturday Vigil" },
+      { "locationCode": "SP", "day": "Sunday", "time": "10:00 AM", "language": "English", "label": null },
+
+      { "locationCode": "SR", "day": "Saturday", "time": "5:30 PM", "language": "English", "label": "Saturday Vigil" },
+      { "locationCode": "SR", "day": "Sunday", "time": "8:00 AM", "language": "English", "label": null },
+      { "locationCode": "SR", "day": "Sunday", "time": "12:30 PM", "language": "Spanish", "label": "Spanish Mass" }
+    ],
+
+    "confessions": [
+      { "day": "Tuesday", "locationCode": "SR", "timeRange": "5:00 PM – 5:45 PM", "notes": null },
+      { "day": "Friday", "locationCode": "SP", "timeRange": "5:00 PM – 5:45 PM", "notes": null },
+      { "day": "Saturday", "locationCode": "SP", "timeRange": "4:00 PM – 4:45 PM", "notes": null },
+      { "day": "Saturday", "locationCode": "SR", "timeRange": "4:30 PM – 5:15 PM", "notes": null }
+    ],
+
+    "adoration": [
+      { "day": "Tuesday", "locationCode": "SR", "timeRange": "5:00 PM – 6:00 PM", "notes": null },
+      { "day": "Friday", "locationCode": "SP", "timeRange": "7:30 AM – 6:00 PM", "notes": null }
+    ],
+
+    "notes": [
+      "Please check the bulletin for weekday Mass times.",
+      "PLEASE SEE THE BULLETIN FOR SPECIAL ADORATION AND CONFESSION TIMES DURING DECEMBER."
+    ]
+  },
+
+  "weeklyMassSchedules": [
+    {
+      "weekOfISO": "2025-12-21",
+      "title": "Week of December 21",
+      "dailyMassAndIntentions": [
+        {
+          "dateISO": "2025-12-22",
+          "locationCode": "SR",
+          "time": "8:30 AM",
+          "intention": "† Mitch & Dolores Newell",
+          "notes": null
+        },
+        {
+          "dateISO": "2025-12-23",
+          "locationCode": "SP",
+          "time": "8:00 AM",
+          "intention": "† Gerald Mauler",
+          "notes": null
+        },
+        {
+          "dateISO": "2025-12-23",
+          "locationCode": "SR",
+          "time": "6:00 PM",
+          "intention": "❖ Para mas vocaciones (Español)",
+          "notes": "Spanish Mass"
+        },
+        {
+          "dateISO": "2025-12-24",
+          "locationCode": "SP",
+          "time": "5:00 PM",
+          "intention": "❖ Children’s Choir",
+          "notes": "Christmas Eve"
+        },
+        {
+          "dateISO": "2025-12-24",
+          "locationCode": "SR",
+          "time": "6:30 PM",
+          "intention": "❖ For more faith, hope & love in Christ",
+          "notes": "Christmas Eve"
+        },
+        {
+          "dateISO": "2025-12-24",
+          "locationCode": "SP",
+          "time": "7:30 PM",
+          "intention": "❖ For the gift of discernment",
+          "notes": "Christmas Eve"
+        },
+        {
+          "dateISO": "2025-12-24",
+          "locationCode": "SR",
+          "time": "10:00 PM",
+          "intention": "❖ For our bishops, priests & parishioners",
+          "notes": "Christmas Eve"
+        },
+        {
+          "dateISO": "2025-12-25",
+          "locationCode": "SR",
+          "time": "9:00 AM",
+          "intention": "❖ Peace on Earth",
+          "notes": "Christmas Day"
+        },
+        {
+          "dateISO": "2025-12-25",
+          "locationCode": "SP",
+          "time": "10:00 AM",
+          "intention": "❖ For our parish to continue to grow",
+          "notes": "Christmas Day"
+        },
+        {
+          "dateISO": "2025-12-25",
+          "locationCode": "SR",
+          "time": "11:00 AM",
+          "intention": "❖ Mario Martinez / Esmeralda Torres (Español)",
+          "notes": "Christmas Day Spanish"
+        },
+        {
+          "dateISO": "2025-12-26",
+          "locationCode": "SP",
+          "time": "7:00 AM",
+          "intention": "† Donald Keeler",
+          "notes": null
+        },
+        {
+          "dateISO": "2025-12-26",
+          "locationCode": "SR",
+          "time": "8:30 AM",
+          "intention": "† Evelyn Stoss Penka",
+          "notes": null
+        },
+        {
+          "dateISO": "2025-12-27",
+          "locationCode": "SP",
+          "time": "5:00 PM",
+          "intention": "† Collin Rous",
+          "notes": "Saturday Vigil"
+        },
+        {
+          "dateISO": "2025-12-27",
+          "locationCode": "SR",
+          "time": "5:30 PM",
+          "intention": "† Ciddy Vick",
+          "notes": "Saturday Vigil"
+        },
+        {
+          "dateISO": "2025-12-28",
+          "locationCode": "SR",
+          "time": "8:00 AM",
+          "intention": "❖ L & D members of Henning & Elsen families",
+          "notes": null
+        },
+        {
+          "dateISO": "2025-12-28",
+          "locationCode": "SP",
+          "time": "10:00 AM",
+          "intention": "† Jesus Contreras",
+          "notes": null
+        },
+        {
+          "dateISO": "2025-12-28",
+          "locationCode": "SR",
+          "time": "12:30 PM",
+          "intention": "† Uvaldo Ruiz (Español)",
+          "notes": "Spanish Mass"
+        }
+      ],
+      "specialNotes": [
+        "Extra Opportunity for Confessions: Tuesday, 12/23, 5:00 PM–7:00 PM at St. Rose and St. Patrick.",
+        "No Adoration St. Rose 12/23.",
+        "No Adoration or Confessions at St. Patrick 12/26."
+      ]
+    },
+
+    {
+      "weekOfISO": "2025-12-28",
+      "title": "Week of December 28",
+      "dailyMassAndIntentions": [
+        { "dateISO": "2025-12-29", "locationCode": "SR", "time": "8:30 AM", "intention": "† James Steiner", "notes": null },
+        { "dateISO": "2025-12-30", "locationCode": "SP", "time": "8:00 AM", "intention": "† Patty Vratil", "notes": null },
+        { "dateISO": "2025-12-30", "locationCode": "SR", "time": "6:00 PM", "intention": "❖ Almas en el purgatorio (Español)", "notes": "Spanish Mass" },
+        { "dateISO": "2025-12-31", "locationCode": "SP", "time": "12:10 PM", "intention": "No Mass", "notes": null },
+        { "dateISO": "2025-12-31", "locationCode": "SR", "time": "5:30 PM", "intention": "❖ For more seminarians in our Diocese", "notes": null },
+        { "dateISO": "2026-01-01", "locationCode": "SP", "time": "8:00 AM", "intention": "❖ God’s Blessing", "notes": "Solemnity of Mary, Mother of God" },
+        { "dateISO": "2026-01-01", "locationCode": "SP", "time": "12:10 PM", "intention": "❖ An Increase in Vocations", "notes": "Solemnity of Mary, Mother of God" },
+        { "dateISO": "2026-01-01", "locationCode": "SR", "time": "5:30 PM", "intention": "❖ For all our Priests and Religious Sisters", "notes": null },
+        { "dateISO": "2026-01-01", "locationCode": "SR", "time": "7:00 PM", "intention": "❖ Prince of Peace Parish (Español)", "notes": "Spanish Mass" },
+        { "dateISO": "2026-01-02", "locationCode": "SP", "time": "7:00 AM", "intention": "† Jake Stremel", "notes": null },
+        { "dateISO": "2026-01-02", "locationCode": "SR", "time": "8:30 AM", "intention": "❖ Divine Will, all souls inheritance", "notes": null },
+        { "dateISO": "2026-01-03", "locationCode": "SR", "time": "8:30 AM", "intention": "† Esther Thull", "notes": "First Saturday" },
+
+        { "dateISO": "2026-01-03", "locationCode": "SP", "time": "5:00 PM", "intention": "† Gene Zorn", "notes": "Saturday Vigil" },
+        { "dateISO": "2026-01-03", "locationCode": "SR", "time": "5:30 PM", "intention": "† Cecilia, Charles & Leon Bahr", "notes": "Saturday Vigil" },
+
+        { "dateISO": "2026-01-04", "locationCode": "SR", "time": "8:00 AM", "intention": "❖ L & D Members K of C #862", "notes": null },
+        { "dateISO": "2026-01-04", "locationCode": "SP", "time": "10:00 AM", "intention": "❖ L & D Members K of C #862", "notes": null },
+        { "dateISO": "2026-01-04", "locationCode": "SR", "time": "12:30 PM", "intention": "❖ Prince of Peace Parish (Español)", "notes": "Spanish Mass" }
+      ],
+      "specialNotes": []
+    }
+  ],
+
+  "baptismPrep": {
+    "english": "English Class First Saturday 7:00 PM",
+    "spanish": "Spanish Class Last Saturday 6:30 PM",
+    "location": "St. Rose Auditorium",
+    "rsvpRequired": true,
+    "phone": "620-792-1396",
+    "notesEnglish": "Parents and (local) Godparents are expected to attend a 90-minute class prior to setting a date for the baptism. MUST RSVP.",
+    "notesSpanish": "Se espera que los padres y padrinos (locales) asistan a una clase de 90 minutos antes de establecer una fecha para el bautismo. ¡Debe confirmar su asistencia!"
+  },
+
+  "staff": [
+    { "role": "Pastor", "name": "Fr. Prakash Kola, MSFS", "email": "pastor@gbprinceofpeace.org" },
+    { "role": "Parochial Vicar", "name": "Fr. Amirtharajan Duraisamy, MSFS (Fr. Amir)", "email": "parochialvicar@gbprinceofpeace.org" },
+    { "role": "Hispanic Ministry", "name": "Sr. Brigida: MCMI", "email": "hispanicministry@gbprinceofpeace.org" },
+    { "role": "Pastoral Assistant", "name": "Luke Blair", "email": "pastoralassistant@gbprinceofpeace.org" },
+    { "role": "DRE K-12", "name": "Laken Rudolph", "email": "dre@gbprinceofpeace.org" },
+    { "role": "Receptionist", "name": "Graciela Guereca", "email": "receptionist@gbprinceofpeace.org" },
+    { "role": "Secretary", "name": "Kathleen Stacey", "email": "secretary@gbprinceofpeace.org" },
+    { "role": "Bookkeeper", "name": "Pam Lichter", "email": "bookkeeper@gbprinceofpeace.org" }
+  ]
+}

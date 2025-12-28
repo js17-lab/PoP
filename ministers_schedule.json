@@ -302,13 +302,7 @@
     "tag": null,
     "roles": {
       "EMHC": [
-        "Brad Schmitt",
-        "Bob Drake",
-        "Kay Thompson",
-        "Amanda Hoffman",
-        "Carrie Witte",
-        "Paula Brozek",
-        "Volunteer"
+        "Brad Schmitt", "Bob Drake", "Kay Thompson", "Amanda Hoffman","Carrie Witte", "Paula Brozek", "Volunteer"
       ],
       "Lector": ["Kevin Kramp"],
       "Leader": ["Charles Atkinson"],
@@ -317,5 +311,4 @@
       "Gift Bearers": ["Ushers' Choice"],
       "Greeters": ["Kathleen Ruble", "Volunteer", "Volunteer"]
     }
-  }
 ]

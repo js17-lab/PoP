@@ -1,5 +1,4 @@
 [
-  
   {
     "id": "stpatrick-2025-12-27-1700",
     "dateISO": "2025-12-27",
@@ -17,12 +16,28 @@
         "Robert Esfeld",
         "Sharon King"
       ],
-      "Lector": ["Debbie Hagans"],
-      "Leader": ["Barb Esfeld"],
-      "Server": ["Knox Strickland", "Oren Talukdar", "Slade Lopez"],
-      "Usher": ["David Degenhardt", "Alicia Degenhardt"],
-      "Gift Bearers": ["Ushers' Choice"],
-      "Greeters": ["Dan & Vicki Haselhorst", "Volunteer"]
+      "Lector": [
+        "Debbie Hagans"
+      ],
+      "Leader": [
+        "Barb Esfeld"
+      ],
+      "Server": [
+        "Knox Strickland",
+        "Oren Talukdar",
+        "Slade Lopez"
+      ],
+      "Usher": [
+        "David Degenhardt",
+        "Alicia Degenhardt"
+      ],
+      "Gift Bearers": [
+        "Ushers' Choice"
+      ],
+      "Greeters": [
+        "Dan & Vicki Haselhorst",
+        "Volunteer"
+      ]
     }
   },
   {
@@ -33,13 +48,34 @@
     "intention": null,
     "tag": "Saturday Vigil",
     "roles": {
-      "EMHC": ["Kathy Hayes", "Dori Wonsetler", "David Cruse", "Ray Degenhardt", "Cathy Griffie"],
-      "Lector": ["Michelle Kaiser"],
-      "Leader": ["Linda Stanley"],
-      "Server": ["Jaycee Hapes", "Volunteer"],
-      "Usher": ["John Haberman", "Jim Hayes"],
-      "Gift Bearers": ["Ushers' Choice"],
-      "Greeters": ["Rachelle Hapes", "Volunteer"]
+      "EMHC": [
+        "Kathy Hayes",
+        "Dori Wonsetler",
+        "David Cruse",
+        "Ray Degenhardt",
+        "Cathy Griffie"
+      ],
+      "Lector": [
+        "Michelle Kaiser"
+      ],
+      "Leader": [
+        "Linda Stanley"
+      ],
+      "Server": [
+        "Jaycee Hapes",
+        "Volunteer"
+      ],
+      "Usher": [
+        "John Haberman",
+        "Jim Hayes"
+      ],
+      "Gift Bearers": [
+        "Ushers' Choice"
+      ],
+      "Greeters": [
+        "Rachelle Hapes",
+        "Volunteer"
+      ]
     }
   },
   {
@@ -50,13 +86,35 @@
     "intention": null,
     "tag": null,
     "roles": {
-      "EMHC": ["Alan Stein", "Cindy Stein", "Neal Herman", "Jolene Kirmer", "Phil Kirmer"],
-      "Lector": ["Judy Jenisch"],
-      "Leader": ["Alan Riedel"],
-      "Server": ["Jordyn Rains", "Kylee Rains", "Kellen Patzer"],
-      "Usher": ["Clarence Suppes", "Ken Dreiling"],
-      "Gift Bearers": ["Ushers' Choice"],
-      "Greeters": ["Clarence Suppes", "Ken Dreiling"]
+      "EMHC": [
+        "Alan Stein",
+        "Cindy Stein",
+        "Neal Herman",
+        "Jolene Kirmer",
+        "Phil Kirmer"
+      ],
+      "Lector": [
+        "Judy Jenisch"
+      ],
+      "Leader": [
+        "Alan Riedel"
+      ],
+      "Server": [
+        "Jordyn Rains",
+        "Kylee Rains",
+        "Kellen Patzer"
+      ],
+      "Usher": [
+        "Clarence Suppes",
+        "Ken Dreiling"
+      ],
+      "Gift Bearers": [
+        "Ushers' Choice"
+      ],
+      "Greeters": [
+        "Clarence Suppes",
+        "Ken Dreiling"
+      ]
     }
   },
   {
@@ -68,17 +126,39 @@
     "tag": null,
     "roles": {
       "EMHC": [
-        "Brad Schmitt", "Bob Drake", "Kay Thompson", "Amanda Hoffman","Carrie Witte", "Paula Brozek", "Volunteer"
+        "Brad Schmitt",
+        "Bob Drake",
+        "Kay Thompson",
+        "Amanda Hoffman",
+        "Carrie Witte",
+        "Paula Brozek",
+        "Volunteer"
       ],
-      "Lector": ["Kevin Kramp"],
-      "Leader": ["Charles Atkinson"],
-      "Server": ["Isaac Steiner", "Eli Steiner", "Macy Hoffman", "Lexan Hoffman"],
-      "Usher": ["Eric Steiner", "Volunteer"],
-      "Gift Bearers": ["Ushers' Choice"],
-      "Greeters": ["Kathleen Ruble", "Volunteer", "Volunteer"]
+      "Lector": [
+        "Kevin Kramp"
+      ],
+      "Leader": [
+        "Charles Atkinson"
+      ],
+      "Server": [
+        "Isaac Steiner",
+        "Eli Steiner",
+        "Macy Hoffman",
+        "Lexan Hoffman"
+      ],
+      "Usher": [
+        "Eric Steiner",
+        "Volunteer"
+      ],
+      "Gift Bearers": [
+        "Ushers' Choice"
+      ],
+      "Greeters": [
+        "Kathleen Ruble",
+        "Volunteer"
+      ]
     }
-  }
-[
+  },
   {
     "id": "stpatrick-2026-01-03-1700",
     "dateISO": "2026-01-03",
